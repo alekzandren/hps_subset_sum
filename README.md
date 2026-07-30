@@ -1,4 +1,9 @@
 # Subset Sum Solver (MITM & FPTAS)
+
+[![C++23](https://img.shields.io/badge/C%2B%2B-23-blue.svg)](https://en.cppreference.com/w/cpp/compiler_support)
+[![CMake](https://img.shields.io/badge/CMake-3.22%2B-green.svg)](https://cmake.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A high-performance C++ solver for the Subset Sum Problem, designed to handle large integers using the GNU MP (GMP) library. This project implements both an exact solution via the Meet-in-the-Middle (MITM) algorithm for smaller datasets and an Fully Polynomial-Time Approximation Scheme (FPTAS) for larger, more complex inputs.
 
 ## Features
